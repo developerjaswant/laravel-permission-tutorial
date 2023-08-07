@@ -1,2 +1,2 @@
-# laravel-permission-tutorial
+# laravel-jwd
 laravel role and permission tutorial
